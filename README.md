@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I'm [Jigah Favour](https://github.com/Jaf-officiaal), a passionate Software Developer from Nigeria. Welcome to my GitHub profile! 
+I'm [Jigah Favour](https://github.com/Jaf-officiaal), a passionate Software Developer from Abuja, Nigeria. Welcome to my GitHub profile! 
 
 ## My GitHub Stats
 
